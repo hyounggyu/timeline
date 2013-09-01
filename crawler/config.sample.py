@@ -1,0 +1,6 @@
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+ACCESS_TOKEN = ''
+ACCESS_TOKEN_SECRET = ''
+LOGFILE = '/tmp/crawler.log'
+PIDFILE = '/tmp/crawler.pid'
